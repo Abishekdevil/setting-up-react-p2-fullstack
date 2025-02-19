@@ -1,0 +1,17 @@
+
+.home {
+  max-width: 400px;
+  margin: 250px auto;
+  padding: 20px;
+  background-color: #fbbebe;
+  border-radius: 12px;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
+
+.title{
+  text-align:center;
+  font-size: 50px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
